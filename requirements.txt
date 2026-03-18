@@ -1,2 +1,3 @@
-openai>=1.0.0
-python-dotenv
+# 核心依赖：openai（兼容DeepSeek API）、python-dotenv（管理环境变量，避免密钥硬编码）
+openai>=1.30.0
+python-dotenv>=1.0.0
